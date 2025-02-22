@@ -30,7 +30,7 @@ The IDS model was trained using network traffic data containing normal and malic
 ## Installation & Setup
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/AI-IDS.git
+git clone https://github.com/whoami-012/AI-IDS.git
 cd AI-IDS
 ```
 
